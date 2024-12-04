@@ -142,7 +142,7 @@ ul > li {
   width: 835px;
   height: 150px;
   margin-top: 37px;
-  background-image: url(/img/backgroundEvent.png);
+  background-image: url(./img/backgroundEvent.png);
   background-repeat: no-repeat;
   font-family: "FuturaBookC";
   color: white;
@@ -494,7 +494,7 @@ main {
   height: 1100px;
   position: relative;
   display: flex;
-  background-image: url(/img/BackgroundSchema.png);
+  background-image: url(./img/BackgroundSchema.png);
   background-repeat: no-repeat;
   z-index: 3; 
 }
@@ -580,14 +580,14 @@ main {
 .scheme1 {
   width: 443px;
   height: 268px;
-  background-image: url(/img/scheme2.png);
+  background-image: url(./img/scheme2.png);
   background-repeat: no-repeat;
 }
 
 .scheme-adaptive {
   width: 414px;
   height: 268px;
-  background-image: url(/img/scheme6.png);
+  background-image: url(./img/scheme6.png);
   background-repeat: no-repeat;
 }
 
@@ -614,35 +614,35 @@ main {
 .scheme2 {
   width: 447px;
   height: 268px;
-  background-image: url(/img/scheme2.png);
+  background-image: url(./img/scheme2.png);
   background-repeat: no-repeat;
 }
 
 .scheme3 {
   width: 421px;
   height: 298px;
-  background-image: url(/img/scheme3.png);
+  background-image: url(./img/scheme3.png);
   background-repeat: no-repeat;
 }
 
 .scheme4 {
   width: 440px;
   height: 268px;
-  background-image: url(/img/scheme4.png);
+  background-image: url(./img/scheme4.png);
   background-repeat: no-repeat;
 }
 
 .scheme5 {
   width: 442px;
   height: 268px;
-  background-image: url(/img/scheme5.png);
+  background-image: url(./img/scheme5.png);
   background-repeat: no-repeat;
 }
 
 .scheme6 {
   width: 413px;
   height: 268px;
-  background-image: url(/img/scheme6.png);
+  background-image: url(./img/scheme6.png);
   background-repeat: no-repeat;
 }
 
@@ -656,7 +656,7 @@ main {
 
 .answers {
   position: relative;
-  background-image: url(/img/answersBackground.png);
+  background-image: url(./img/answersBackground.png);
   background-color: rgb(5,20,139);
   overflow: hidden;
   padding-top: 53px;
@@ -704,7 +704,7 @@ main {
   position: relative;
   height: 87px;
   cursor: pointer;
-  background-image: url(/img/answerBackground.png);
+  background-image: url(./img/answerBackground.png);
   padding: 30px 37px 30px 53px;
   border-radius: 10px;
   box-sizing: border-box;
@@ -723,7 +723,7 @@ main {
   align-content: center;
   content: '\276F';
   color: #FFF;
-  background-image: url(/img/answersCircle.png);
+  background-image: url(./img/answersCircle.png);
   width: 40px;
   height: 40px;
   transform: rotate(90deg);
@@ -731,7 +731,7 @@ main {
 }
 
 .answer-container input:checked + label {
-  background-image: url(/img/answerBackground1.png);
+  background-image: url(./img/answerBackground1.png);
   color: #FFF;
 }
 
@@ -739,7 +739,7 @@ main {
   background-color: white;
   border-radius: 50%;
   transition: transform .35s ease-in-out;
-  background-image: url(/img/answerCircle1.png);
+  background-image: url(./img/answerCircle1.png);
   transform: rotate(270deg);
   color: #000985;
 }
